@@ -1,0 +1,12 @@
+.resistor{
+    width: 100%;
+    height: 2.5rem;
+    background-color: aliceblue;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 0.5rem;
+}
+
+.resistor span{
+    font-weight: bold;
+}

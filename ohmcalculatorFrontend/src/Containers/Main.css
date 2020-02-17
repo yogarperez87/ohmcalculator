@@ -1,0 +1,9 @@
+.Main{
+    margin-top: 10vh;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 2em 2.5em;
+}
+.content{
+    margin-top: 3vh;
+}

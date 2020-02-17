@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ColorList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Color Type="p">
+        <Name>Black</Name>
+        <Value>0</Value>
+        <Code>#000</Code>
+    </Color>
+    <Color Type="p">
+        <Name>Brown</Name>
+        <Value>1</Value>
+        <Code>#512627</Code>
+    </Color>
+    <Color Type="p">
+        <Name>Red</Name>
+        <Value>2</Value>
+        <Code>#CC0000</Code>
+    </Color>
+    <Color Type="p">
+        <Name>Orange</Name>
+        <Value>3</Value>
+        <Code>#D87347</Code>
+    </Color>
+    <Color Type="p">
+        <Name>Yellow</Name>
+        <Value>4</Value>
+        <Code>#E6C951</Code>
+    </Color>
+    <Color Type="p">
+        <Name>Green</Name>
+        <Value>5</Value>
+        <Code>#528F65</Code>
+    </Color>
+    <Color Type="p">
+        <Name>Blue</Name>
+        <Value>6</Value>
+        <Code>#0F5190</Code>
+    </Color>
+    <Color Type="p">
+        <Name>Violet</Name>
+        <Value>7</Value>
+        <Code>#6967CE</Code>
+    </Color>
+    <Color Type="p">
+        <Name>Grey</Name>
+        <Value>8</Value>
+        <Code>#7D7D7D</Code>
+    </Color>
+    <Color Type="p">
+        <Name>White</Name>
+        <Value>9</Value>
+        <Code>#FFF</Code>
+    </Color>
+    <Color Type="m">
+        <Name>Black</Name>
+        <Value>1</Value>
+        <Code>#000</Code>
+        <Type>m</Type>
+    </Color>
+    <Color Type="m">
+        <Name>Brown</Name>
+        <Value>10</Value>
+        <Code>#512627</Code>
+    </Color>
+    <Color Type="m">
+        <Name>Red</Name>
+        <Value>100</Value>
+        <Code>#CC0000</Code>
+    </Color>
+    <Color Type="m">
+        <Name>Orange</Name>
+        <Value>1000</Value>
+        <Code>#D87347</Code>
+    </Color>
+    <Color Type="m">
+        <Name>Yellow</Name>
+        <Value>10000</Value>
+        <Code>#E6C951</Code>
+    </Color>
+    <Color Type="m">
+        <Name>Green</Name>
+        <Value>100000</Value>
+        <Code>#528F65</Code>
+    </Color>
+    <Color Type="m">
+        <Name>Blue</Name>
+        <Value>1000000</Value>
+        <Code>#0F5190</Code>
+    </Color>
+    <Color Type="m">
+        <Name>Violet</Name>
+        <Value>10000000</Value>
+        <Code>#6967CE</Code>
+    </Color>
+    <Color Type="m">
+        <Name>Grey</Name>
+        <Value>100000000</Value>
+        <Code>#7D7D7D</Code>
+    </Color>
+    <Color Type="m">
+        <Name>White</Name>
+        <Value>1000000000</Value>
+        <Code>#FFF</Code>
+    </Color>
+    <Color Type="m">
+        <Name>Gold</Name>
+        <Value>0.1</Value>
+        <Code>#C08327</Code>
+    </Color>
+    <Color Type="m">
+        <Name>Silver</Name>
+        <Value>0.01</Value>
+        <Code>#BFBEBF</Code>
+    </Color>
+    <Color Type="t">
+        <Name>Brown</Name>
+        <Value>1</Value>
+        <Code>#512627</Code>
+    </Color>
+    <Color Type="t">
+        <Name>Red</Name>
+        <Value>2</Value>
+        <Code>#CC0000</Code>
+    </Color>
+    <Color Type="t">
+        <Name>Green</Name>
+        <Value>0.5</Value>
+        <Code>#528F65</Code>
+    </Color>
+    <Color Type="t">
+        <Name>Blue</Name>
+        <Value>0.25</Value>
+        <Code>#0F5190</Code>
+    </Color>
+    <Color Type="t">
+        <Name>Violet</Name>
+        <Value>0.1</Value>
+        <Code>#6967CE</Code>
+    </Color>
+    <Color Type="t">
+        <Name>Grey</Name>
+        <Value>0.05</Value>
+        <Code>#7D7D7D</Code>
+    </Color>
+    <Color Type="t">
+        <Name>Gold</Name>
+        <Value>5</Value>
+        <Code>#C08327</Code>
+    </Color>
+    <Color Type="t">
+        <Name>Silver</Name>
+        <Value>10</Value>
+        <Code>#BFBEBF</Code>
+    </Color>
+</ColorList>
