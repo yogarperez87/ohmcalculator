@@ -1,19 +1,18 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Introducion
+## Introduction
 
 This project has two parts, a WebServer written in C# and a Frontend in React.
 
-## Explication
+## Explanation
 
 During the development phase was encountered some issues.
 1. The method `CalculateOhmValue` receive a 4th parameter for the tolerance band.
     * Solution: The parameter was ignored, there is no need of that parameter for the calculation.
 2. The method `CalculateOhmValue` return an int type.
     * There is are some multipliers colors with double values(Gold=>0.1 and Silver=>0.01) then in some cases the return value can be a floating-point value.
-        *Solution: In those cases the result was rounded and converted to int.
+        * Solution: In those cases the result was rounded and converted to int.
     * There are some cases in which the return value is larger than the larger value that an int32 type value can store.
-        *Solution: In those cases the result was set to the larger value that an int32 type value can store.
+        * Solution: In those cases the result was set to the larger value that an int32 type value can store.
 
 ## Requirements
 * Node 8.16.0 or later version
