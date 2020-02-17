@@ -18,17 +18,21 @@ During the development phase was encountered some issues.
 ## Installation
 
 ### OhmcalculatorFrontend
+#### From the project root
     cd ohmcalculatorFrontend && npm install
 ### OhmCalculatorServer
+#### From the project root
     cd OhmCalculatorServer
     Use Visual Studo or another C# compiler to open the file `OhmCalculator.sln` and build the project
 
 ## Run the project
 ### First, start the server
+#### From the project root
     cd OhmCalculatorServer/OhmCalculator/bin/Debug
     start OhmCalculator.exe
 ### Second, start the React Server
-    npm start
+#### From the project root
+    cd ohmcalculatorFrontend && npm start
 You cant start to use the calculator
 
 ## Available Scripts
