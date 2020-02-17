@@ -4,6 +4,10 @@
 This project has two parts, a WebServer written in C# and a Frontend in React.
 
 ## Explanation
+The project has two parts
+1. An API server written in C#
+    * Contains the all the classes, interfaces and operations
+2. A frontend written whith React
 
 During the development phase was encountered some issues.
 1. The method `CalculateOhmValue` receive a 4th parameter for the tolerance band.
