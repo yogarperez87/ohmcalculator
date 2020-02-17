@@ -15,6 +15,10 @@ During the development phase was encountered some issues.
     * There are some cases in which the return value is larger than the larger value that an int32 type value can store.
         *Solution: In those cases the result was set to the larger value that an int32 type value can store.
 
+## Requirements
+* Node 8.16.0 or later version
+* Visual Studio or another C# compiler
+
 ## Installation
 
 ### OhmcalculatorFrontend
